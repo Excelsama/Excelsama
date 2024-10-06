@@ -1,1 +1,1 @@
-<p style="text-align:center">Hey 👋</p>
+<p align="center">Hey 👋</p>
